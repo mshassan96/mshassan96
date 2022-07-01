@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mshassan96
-- 👀 I’m interested in Prestashop
-- 🌱 I’m currently learning Symfony
+- 👀 I’m interested in JavaScript, jQuery, React, NodeJs, MongoDB, PHP, MySQL, Prestashop, 
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Prestashop
 - 📫 How to reach me miansalmanhassan@yahoo.com
 
