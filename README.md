@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mshassan96
 - 👀 I have worked in PHP, MySQL, Smarty, JavaScript, jQuery, HTML, CSS, Bootstrap, tailblocks, Prestashop, Wordpress
-- 🌱 I’m currently working with React, NodeJs, MongoDB, MERN Stack
+- 🌱 I’m currently working with React, NodeJs, NestJS, MongoDB, MERN Stack
 - 💞️ I’m looking to collaborate on Prestashop, React
 - 📫 How to reach me miansalmanhassan@yahoo.com
 
