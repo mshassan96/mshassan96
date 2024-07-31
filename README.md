@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mshassan96
-- 👀 I have worked in PHP, MySQL, Smarty, JavaScript, jQuery, HTML, CSS, Bootstrap, tailblocks, Prestashop, Wordpress
-- 🌱 I’m currently working with React, NodeJs, NestJS, MongoDB, MERN Stack
-- 💞️ I’m looking to collaborate on Prestashop, React
-- 📫 How to reach me miansalmanhassan@yahoo.com
+- 👀 I have build amazing stuff in HTML/CSS, JavaScript, React, NodeJS, NestJS, MongoDB, PHP, MySQL, Smarty, jQuery, Bootstrap, tailblocks, Prestashop, Wordpress and more ...
+- 🌱 I’m currently working with React, NodeJs, NestJS, MongoDB and differnt cloud services (AWS, GCP)
+- 💞️ I’m looking to collaborate on any of the above technologies to solve problems and build fun stuff.
+- 📫 How to reach me salmanhassan96@gmail.com
 
 <!---
 mshassan96/mshassan96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
