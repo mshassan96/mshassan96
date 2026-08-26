@@ -43,7 +43,7 @@ Full-stack JavaScript/TypeScript projects, AI-integrated features (OpenAI/RAG), 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:salmanhassan96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-salman-hassan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://miansalmanhassanportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://miansalmanhassan-portfolio.vercel.app/)
 
 
 <!---
